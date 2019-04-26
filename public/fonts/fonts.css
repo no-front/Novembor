@@ -1,0 +1,42 @@
+/* Include all fonts & customized classes */
+		@font-face {
+		    font-family: "defaultFont-Light";
+		    src: url(../fonts/Mitr/Mitr-Light.ttf) format("truetype");
+		    font-weight: 100;
+		    font-style: normal;
+		}
+		@font-face {
+		    font-family: "defaultFont";
+		    src: url(../fonts/Mitr/Mitr-Regular.ttf) format("truetype");
+		    font-weight: 100;
+		    font-style: normal;
+		}
+		
+		@font-face {
+		    font-family: "defaultFont-SemiBold";
+		    src: url(../fonts/Mitr/Mitr-SemiBold.ttf) format("truetype");
+		    font-weight: 100;
+		    font-style: normal;
+		}
+		
+		
+		@font-face {
+		    font-family: "defaultFont-Bold";
+		    src: url(../fonts/Mitr/Mitr-Bold.ttf) format("truetype");
+		    font-weight: 100;
+		    font-style: normal;
+		}
+		
+		@font-face {
+		    font-family: "defaultFont-ExtraBold";
+		    src: url(../fonts/Mitr/Mitr-ExtraBold.ttf) format("truetype");
+		    font-weight: 100;
+		    font-style: normal;
+		}
+		
+		@font-face {
+		    font-family: "defaultFont-Black";
+		    src: url(../fonts/Mitr/Mitr-Black.ttf) format("truetype");
+		    font-weight: 100;
+		    font-style: normal;
+		}
