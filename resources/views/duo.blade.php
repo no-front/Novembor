@@ -59,7 +59,9 @@
 				<div class="label-priceproduct font-lg-22 font-md-18 font-sm-14 font-12 b-2 r-2">
 					59 <div class="inline font-lg-18 font-md-14 font-sm-12 font-10">บาท.</div>
 				</div>
-				<img src="{{ URL('img/testFood.jpeg') }}" class="w-100 h-100 fit-cover">
+				<!-- <img src="{{ URL('img/testFood.jpeg') }}" class="w-100 h-100 fit-cover"> -->
+				<img src="" class="w-100 h-100 fit-cover">
+
 			</div>
 		</div>
 		<div class="col-md-6 col-sm-6 col-6 pl-md-2 pl-1 pr-md-3 pr-2 mb-2 mb-md-3">
@@ -98,7 +100,9 @@
 	</div>
 	<div class="row">
 		<div class="col pt-md-5 mb-lg-5 mb-sm-5 mb-5 pt-3 pb-md-1 pb-4 pl-5 pr-5" align="center">
-			<a href="{{ URL('requirelocation') }}" class="btn btn-danger w-100" style="">จัดส่ง</a>
+			<!-- <a href="{{ URL('requirelocation') }}" class="btn btn-danger w-100" style="">จัดส่ง</a> -->
+			<a href="{{ URL('#') }}" class="btn btn-danger w-100" style="">จัดส่ง</a>
+
 		</div>
 	</div>
 
